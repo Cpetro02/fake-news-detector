@@ -12,6 +12,7 @@ This will protect people from misinformation and radicalism, empowering them to 
 ## Dataset
 ### "Liar, Liar Pants on Fire":
 A New Benchmark Dataset for Fake News Detection by William Yang Wang
+
 Source: (https://aclanthology.org/P17-2067.pdf)
 
 As stated in the abstract, "LIAR is a publicly available dataset for fake news detection. It consists of a decade-long, 12.8K manually labeled short statements in various contexts from POLITIFACT.COM, which provides detailed analysis report and links to source documents for each case."
